@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Job Mathews
+# Hi 👋🏽, I’m Job Mathews
 
 - 👀 I’m interested in Aeronautics, Space, Mechanical, Physics, Engineering, Autonomous Machines, Audio and Music, AI, ML, Python
 - 🌱 I’m currently learning Data Science and Machine Learning, majorly working with Python, Pandas, NumPy, PyTorch, etc.
